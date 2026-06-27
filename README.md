@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/nandakshat9988/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/nandakshat9988/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nandakshat9988/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Dynamic Programming
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nandakshat9988/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/nandakshat9988/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
