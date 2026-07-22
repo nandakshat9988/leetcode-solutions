@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nandakshat9988/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/nandakshat9988/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nandakshat9988/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [2615-sum-of-distances](https://github.com/nandakshat9988/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nandakshat9988/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [2615-sum-of-distances](https://github.com/nandakshat9988/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Stack
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/nandakshat9988/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nandakshat9988/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/nandakshat9988/leetcode-solutions/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
