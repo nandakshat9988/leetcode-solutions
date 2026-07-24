@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nandakshat9988/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nandakshat9988/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [2615-sum-of-distances](https://github.com/nandakshat9988/leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nandakshat9988/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/nandakshat9988/leetcode-solutions/tree/master/2615-sum-of-distances) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nandakshat9988/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
